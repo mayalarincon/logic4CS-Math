@@ -56,11 +56,12 @@ This book introduces the basics of Applied Logic for Computer Scientists and Mat
     <li> <a
     href="https://cicm-conference.org/2025/cicm.php?event=fm-pvs&menu=general">Formal
     Proofs in PVS</a>  tutorial affiliated to the 19th International
-    Conference on Intelligent Computational Mathematics - CICM 2025. 
+    Conference on Intelligent Computational Mathematics - CICM 2025. </li> 
     <li> <a
     href="https://thaynaradelima.github.io/Tutorials/UNAL_Manizales_2023/">Mechanizing
     Mathematics</a> tutorial for mathematicians at the
-    Universidad Nacional de Colombia, 2023. 
+    Universidad Nacional de Colombia, 2023. </li>
+  
     <li> <a href="https://mayalarincon.github.io/pvsclass17/index.html"> PVS
  for Computer Scientists 2017 </a> held as a Tableaux/ITP/FroCoS tutorial in
   Bras&iacute;lia, 2017</li>
@@ -72,8 +73,6 @@ This book introduces the basics of Applied Logic for Computer Scientists and Mat
   </h3>
 </div>
 
-
-</div>
 <div id="postamble" class="status">
 <p class="email">Email:  <a href="mailto:ayala at ufg dot br">ayala at
   unb dot br</a> / <a
