@@ -50,7 +50,7 @@ This book introduces the basics of Applied Logic for Computer Scientists and Mat
 </div>
 
 <div id="outline-container-orga3078c1" class="outline-2">
-  <h3 id="orga3078c1">Recommended <i>PVS</i> complete tutorials:
+  <h3 id="orga3078c1">Recommended <i>PVS</i> complete tutorials:>
   <ul>
 
     <li> <a
