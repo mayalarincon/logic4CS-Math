@@ -42,6 +42,7 @@ The official [sorting](https://github.com/nasa/pvslib/blob/master/sorting/README
 
 * [Formal Proofs in PVS](https://cicm-conference.org/2025/cicm.php?event=fm-pvs&menu=general): Tutorial affiliated with the 19th International Conference on Intelligent Computational Mathematics (CICM 2025).
 * [Mechanizing Mathematics](https://thaynaradelima.github.io/Tutorials/UNAL_Manizales_2023/): Tutorial for mathematicians at the Universidad Nacional de Colombia, 2023.
+* [Program Validation and Verification in PVS](https://shemesh.larc.nasa.gov/fm/pvs/TutorialCADE2021): Tutorial affiliated to CADE 2021.      
 * [PVS for Computer Scientists 2017](https://mayalarincon.github.io/pvsclass17/index.html): Tutorial affiliated to Tableaux/ITP/FroCoS, Universidade de Brasília, 2017.
 * [NASA/NIA PVS Class 2012](https://shemesh.larc.nasa.gov/PVSClass2012): Tutorial at the National Institute for Aerospace NIA/NASA LaRC, Hampton VA, 2012.
 
