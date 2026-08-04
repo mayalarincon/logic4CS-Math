@@ -1,10 +1,10 @@
 # logic4CS-Math
 ## Supplementary materials for "Applied Logic for Computer Scientists and Mathematicians"  
-By M. Ayala-Rincón, Flávio L. C. de Moura, and T. A. de Lima
+By Mauricio Ayala-Rincón, Flávio Leonardo Cavalcanti de Moura, and Thaynara Arielly de Lima
 
 This repository includes supplementary materials for the book "Applied Logic for Computer Scientists and Mathematicians"
 
-This book introduces the basics of Applied Logic for Computer Scientists and Mathematicians, focusing on the application of logical deductive systems, such as natural deduction and sequent calculus, to code verification and certification and to the mechanization of mathematical theorems.
+The book introduces the basics of Applied Logic for Computer Scientists and Mathematicians, focusing on the application of logical deductive systems in the verification and certification of code and the mechanization of mathematical theorems.  The book discusses two classical Gentzen deductive systems: natural deduction and sequent calculus, and how they are implemented in interactive proof assistants. 
 
 <hr>
 <div id="outline-container-orgdd67227" class="outline-2">
