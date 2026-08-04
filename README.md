@@ -37,7 +37,7 @@ The book introduces the basics of Applied Logic for Computer Scientists and Math
   properties; <a href="https://github.com/nasa/pvslib/blob/master/sorting/README.md">sorting</a>, a complete library on sorting algorithms;
      infinitude of primes, a complete library on the <a href="https://github.com/nasa/pvslib/blob/master/ints/inf_primes/README.md">infinitude of
      primes</a>, which includes proofs from the famous "Proofs from
-     THE BOOK". </h3> </h4>
+     THE BOOK".  </h4>
 </div>
 
 <div id="outline-container-orga3078c1" class="outline-2">
