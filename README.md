@@ -7,9 +7,9 @@ This repository includes supplementary materials for the book "Applied Logic for
 The book introduces the basics of Applied Logic for Computer Scientists and Mathematicians, focusing on the application of logical deductive systems in the verification and certification of code and the mechanization of mathematical theorems.  The book discusses two classical Gentzen deductive systems: natural deduction and sequent calculus, and how they are implemented in interactive proof assistants. 
 
 <hr>
-<div id="outline-container-orgdd67227" class="outline-2">
-<h2 id="orgdd67227">Solutions of selected exercises (<a href="SOLalcs.pdf">pdf</a>)</h2>
-</div>
+
+##Solutions of selected exercises <a href="SOLalcs.pdf">pdf</a>
+
 
 <div id="outline-container-orga3078c1" class="outline-2">
 <h2 id="orga3078c1">Examples of Formalizations</h2>
