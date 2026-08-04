@@ -27,7 +27,7 @@ The [NASA LaRC PVS library](https://github.com/nasa/pvslib/blob/master/README.md
 * [sorting](https://github.com/nasa/pvslib/blob/master/sorting/README.md): A complete library on sorting algorithms.
 * [inf_primes](https://github.com/nasa/pvslib/blob/master/ints/inf_primes/README.md): A complete library on the infinitude of primes, which includes proofs from the famous "Proofs from THE BOOK".
 * [nominal](https://github.com/nasa/pvslib/blob/master/nominal/README.md): A library on equality-check, matching and unification algorithms for the nominal syntax modulo associativity, commutativity and associativity-commutativity.
-  * [PVS0](https://github.com/nasa/pvslib/blob/master/PVSO/README.md): A library on the automation of termination for first-order functional programs. It implements termination methods such as size-change termination, calling context graphs and matrix-weighted termination, dependency pairs, and Turing termination and mechanizes their equivalence. 
+* [PVSO](https://github.com/nasa/pvslib/blob/master/PVSO/README.md): A library on the automation of termination for first-order functional programs. It implements termination methods such as size-change termination, calling context graphs and matrix-weighted termination, dependency pairs, and Turing termination and mechanizes their equivalence. 
 
 ### 3. Checking Sorting Algorithms over naturals 
 * [Compressed library](sorting.tgz)
